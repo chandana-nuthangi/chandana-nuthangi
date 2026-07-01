@@ -37,5 +37,5 @@ extraction. Includes an honest error analysis on out-of-domain text.
 
 ## 📫 Let's connect
 
-- LinkedIn: [https://www.linkedin.com/in/chandana-nuthangii/]
+- LinkedIn: [Chandana Nuthangi](https://www.linkedin.com/in/chandana-nuthangii/)
 - HuggingFace: [chandanaau](https://huggingface.co/chandanaau)
