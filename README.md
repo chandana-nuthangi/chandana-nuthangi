@@ -24,7 +24,7 @@ extraction. Includes an honest error analysis on out-of-domain text.
 
 | Project | Description | Stack |
 |---|---|---|
-| [from-floor-to-data](https://github.com/chandana-nuthangi/from-floor-to-data) | Warehouse analytics: data quality pipeline, 28-day volume forecasting (Holt-Winters), operations dashboard | `Python` `Pandas` `Jupyter` |
+| [supply-chain-logistics-analytics](https://github.com/chandana-nuthangi/from-floor-to-data) | Warehouse analytics: data quality pipeline, 28-day volume forecasting (Holt-Winters), operations dashboard | `Python` `Pandas` `Jupyter` |
 | [ai-portfolio (Invoice Extractor)](https://github.com/chandana-nuthangi/ai-portfolio) | Streamlit app that extracts structured data from invoice PDFs using Google Gemini, with natural-language Q&A on the document | `Python` `Streamlit` `Gemini API` |
 | [exploratory-data-analysis-python](https://github.com/chandana-nuthangi/exploratory-data-analysis-python) | EDA projects: API data extraction, cleaning, time series, visualization | `Pandas` `Matplotlib` `Seaborn` |
 
